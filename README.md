@@ -1,6 +1,23 @@
 <h3> ETL events </h3>
   <ul>
-    <li>Analytical events</li>
+    <li>Analytical events </li>
+    <ul>
+     <li>BillingAddressSavedEvent</li>
+     <li>CartAbandonedEvent</li>
+     <li>CheckoutSubmittedEvent</li>
+     <li>CouponAppliedEvent</li>
+     <li>CouponRemovedEvent</li>
+     <li>CustomerLoggedInEvent</li>
+     <li>customer.registered</li>
+     <li>OrderPaidEvent</li>
+     <li>OrderPlacedEvent</li>
+     <li>PaymentMethodSelectedEvent</li>
+     <li>ProductAddedToCartEvent</li>
+     <li>ShippingAddressSavedEvent</li>
+     <li>ShippingMethodSelectedEvent</li>
+    </ul>
+ 
+   </li>
     <li>Action tracking events 
         <ul>
              <li>customer.registered</li>
